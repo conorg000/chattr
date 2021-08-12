@@ -1,7 +1,7 @@
 # Chattr: an online chat application
 
 ## Project
-The aim of this project is to demonstrate the software development skills we've learned in 3813ICT by creating a web-app like Slack/Discord/Teams where users can log in, join groups, join channels, and use live chat.
+The aim of this project is to create a web-app like Slack/Discord/Teams where users can log in, join groups, join channels, and use live chat.
 
 ## Version Control
 For the development of Chattr, Github was used as the distributed version control system. This helped the project in two ways. Firstly, it acted as a backup of all work done, and made it possible to roll back to previous versions if a new feature ended up behaving unexpectedly. Secondly, it allowed for the hypothetical case where several developers might work on the project simultaneously. While there was only one developer in this case, using Github would normally make it possible for different developers to work on separate components of the project and then later merge their contributions together.
